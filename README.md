@@ -11,13 +11,15 @@ The purpose of this project is as my portfolio if the recruiter wants to know ho
 * Datacamp
 * Udemy
 * Kaggle
-* Etc.
+* etc.
 
 ### Methods Used
 * Inferential Statistics
 * Machine Learning
 * Data Visualization
 * Predictive Modeling
+* Importing & Cleaning Data
+* Case Studies
 * etc.
 
 ### Technologies
@@ -25,8 +27,6 @@ The purpose of this project is as my portfolio if the recruiter wants to know ho
 * Python
 * PostGres, MySql
 * Pandas, jupyter
-* HTML
-* JavaScript
 * etc. 
 
 ## Contact
