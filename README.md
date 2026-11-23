@@ -10,6 +10,7 @@ Data analysis projects in Python: cleaning real-world data, exploring it visuall
 
 | Project | Question | Methods |
 |---|---|---|
+| [⚽ World Cup Sports Shop: Churn Prediction](WM-Sportartikel-Churn-Prediction) | Which customers keep buying after the World Cup, and which threshold maximizes profit? | Classification, cost matrix, threshold optimization |
 | [🐱 Mobile Games A/B Testing](Mobile-Gmaes-AB-Testing-with-Cookie-Cats) | Should the first gate in Cookie Cats move from level 30 to 40? | A/B testing, bootstrapping |
 | [📱 Android App Market](The%20Android-App-Market-on-Google-Play) | What makes apps succeed on Google Play? | Data cleaning, market analysis, review sentiment |
 | [🏠 House Price EDA](House-price-EDA) | What drives house sale prices? | Descriptive statistics, seaborn visualizations |
@@ -28,6 +29,7 @@ Data analysis projects in Python: cleaning real-world data, exploring it visuall
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-4051B5?style=flat)
