@@ -10,6 +10,7 @@ Data analysis projects in Python: cleaning real-world data, exploring it visuall
 
 | Project | Question | Methods |
 |---|---|---|
+| [🛒 Retail Customer Analytics (Complete Journey)](Retail-Customer-Analytics-Complete-Journey) | Which households grow or shrink, do campaigns work, and how do income and children change spending? | Segmentation, Difference-in-Differences, Welch's t-test |
 | [⚽ World Cup Sports Shop: Churn Prediction](WM-Sportartikel-Churn-Prediction) | Which customers keep buying after the World Cup, and which threshold maximizes profit? | Classification, cost matrix, threshold optimization |
 | [🐱 Mobile Games A/B Testing](Mobile-Gmaes-AB-Testing-with-Cookie-Cats) | Should the first gate in Cookie Cats move from level 30 to 40? | A/B testing, bootstrapping |
 | [📱 Android App Market](The%20Android-App-Market-on-Google-Play) | What makes apps succeed on Google Play? | Data cleaning, market analysis, review sentiment |
